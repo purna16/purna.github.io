@@ -23,7 +23,7 @@ const Footer = () => {
                 size={20}
                 style={{ color: "#fff", marginRight: "2rem" }}
               />{" "}
-              purnanaidu567@gmail.com
+              shivar640@gmail.com
             </h4>
           </div>
           <div className="email">
@@ -51,7 +51,7 @@ const Footer = () => {
             Hi, My Name is Purna Siva Sai.
           </p>
           <p>
-            <a href="https://drive.google.com/file/d/1TRtuhX1xltUnnJoyp2XIHNJLOHtw86C1/view"> Click Here to check out my Résumé!</a>
+            <a href="https://drive.google.com/file/d/1zLe7yPrYdKHQLBOHbUUanV0j14BZQrI8/view?usp=drive_link"> Click Here to check out my Résumé!</a>
           </p>
         </div>
       </div>
