@@ -8,7 +8,7 @@ const ProjectCardData = [
         title:"Streamlining Application Deployments with GitLab and Kubernetes.",
         text:"I implemented an end-to-end CI/CD pipeline using GitLab for a Node.js app, ensuring seamless dev to prod deployments. SAST was conducted for proactive security vulnerability identification. Docker images were built and deployed to GitLab Container Registry. Deployments to dev, staging, and prod servers were orchestrated. Dynamic image versioning managed updates across environments. Jest unit test reports were shared via GitLab artifacts. GitLab Runner deployed containers on AWS. Docker Compose managed orchestration. Monorepo, polyrepo, and microservices architectures were successfully deployed for scalability. A reusable pipeline template allowed for replication. Services were deployed on a Kubernetes cluster with GitLab integration. Secure access/permissions were established using service accounts/roles. GitLab user permissions and kubeconfig files enabled CI/CD integration. Achieved streamlined end-to-end CI/CD for build, test, containerize, and deploy, promoting efficient development."
 
-        ,view: "https://gitlab.com/shivar640/node-js/-/edit/main/README.md"
+        ,view: "https://gitlab.com/shivar640/node-js/-/blob/main/README.md"
         ,source: "https://gitlab.com/shivar640/node-js"    
     },
     {
