@@ -16,7 +16,7 @@ const HeroImg = () => {
                         Hi, My name is Purna Siva Sai.
                     </p>
                     <h1>
-                    I am currently interning at IIT-Bombay as DevOps Engineer.
+                    I am currently working at IIT-Bombay as DevOps Engineer.
                     </h1>
                     <div className="btncont">
                         <Link to ="/Projects" className="btn">Projects</Link>
